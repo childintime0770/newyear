@@ -35,7 +35,7 @@ function countDiff(date){
 }
 
 
-const newYear = new Date("sep 21, 2020 19:48"); // axali weli
+const newYear = new Date("jan 1, 2021"); // axali weli
 
 
 setInterval(countDiff, 1000, newYear);
